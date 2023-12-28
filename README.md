@@ -1,4 +1,4 @@
 # DEMO
 my first repo.
 <br>
-Author - shubham tejani
+Author - shubham s tejani
